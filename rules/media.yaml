@@ -1,0 +1,8 @@
+payload:
+  # Pornhub
+  - '+.phncdn.com'
+  - '+.phprcdn.com'
+  - '+.pornhub.com'
+  - '+.pornhubpremium.com'
+  # K线下载
+  - '+.datafeed.dukascopy.com'

@@ -1,0 +1,22 @@
+payload:
+  - DOMAIN-SUFFIX,cable.auth.com
+  # assets
+  - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN,fonts.gstatic.com
+  - DOMAIN,fonts.googleapis.com
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,github.io
+  # V2rayse节点工具
+  - DOMAIN,v2rayse.com
+  - DOMAIN-KEYWORD,redd
+  - DOMAIN-KEYWORD,linkedin
+  - DOMAIN-KEYWORD,docker
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,moomoo.com
+  - DOMAIN-SUFFIX,fofa.info
+  - DOMAIN-SUFFIX,tool.lu
+  - DOMAIN,download.jetbrains.com
+  - DOMAIN,download-cdn.jetbrains.com
+  - DOMAIN,download-cdn.jetbrains.com.cn
