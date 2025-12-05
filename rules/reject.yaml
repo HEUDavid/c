@@ -46,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,ugsdk.cn
   - DOMAIN-SUFFIX,v5-se-ucl-daily-reading-video.fqnovelvod.com
   - DOMAIN-SUFFIX,mon11-misc-lf.fqnovel.com
+  - DOMAIN-SUFFIX,ec3-core-lf.ecombdapi.com
   # 运营商劫持
   # - DOMAIN-SUFFIX,so666gslb.com
   # - DOMAIN-SUFFIX,tushuokeji.net
