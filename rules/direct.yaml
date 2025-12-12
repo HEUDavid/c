@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,prod.aws.tidbcloud.com
   - DOMAIN-SUFFIX,e.aivencloud.com
   - DOMAIN,board.zash.run.place
+  - DOMAIN-SUFFIX,test-ipv6.com
