@@ -17,3 +17,4 @@ payload:
   - '*.branch.io'
   - 'static.zongheng.com'
   - 'clientservices.googleapis.com'
+  - '+.jpush.cn'
