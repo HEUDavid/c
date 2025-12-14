@@ -54,3 +54,4 @@ payload:
   # - DOMAIN-SUFFIX,tushuokeji.net
   # httpdns
   - DOMAIN,httpdns.baidubce.com
+  - DOMAIN-KEYWORD,dnspod.meituan.httpdns
