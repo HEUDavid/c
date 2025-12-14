@@ -19,4 +19,3 @@ payload:
   - 'clientservices.googleapis.com'
   - '+.jpush.cn'
   - 'redirect.viglink.com'
-  - 'api-js.mixpanel.com'
