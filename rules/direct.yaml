@@ -13,3 +13,6 @@ payload:
   - DOMAIN-SUFFIX,prod.aws.tidbcloud.com
   - DOMAIN-SUFFIX,e.aivencloud.com
   - DOMAIN-SUFFIX,test-ipv6.com
+  # 抖音
+  - DOMAIN,tnc0-alisc1.zijieapi.com
+  - DOMAIN,tnc0-aliec2.zijieapi.com
