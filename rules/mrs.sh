@@ -10,3 +10,4 @@ rm anti-ad-white.yaml
 "${mihomo}" convert-ruleset domain yaml direct-domain.yaml ./mrs/direct-domain.mrs
 "${mihomo}" convert-ruleset domain yaml proxy-domain.yaml ./mrs/proxy-domain.mrs
 "${mihomo}" convert-ruleset domain yaml proxy-white.yaml ./mrs/proxy-white.mrs
+"${mihomo}" convert-ruleset domain yaml reject-domain.yaml ./mrs/reject-domain.mrs
