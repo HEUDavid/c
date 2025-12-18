@@ -7,3 +7,4 @@ curl -sSL https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/
 rm anti-ad-white.yaml
 
 "${mihomo}" convert-ruleset ipcidr yaml dns.yaml dns.mrs
+"${mihomo}" convert-ruleset domain yaml direct-domain.yaml direct-domain.mrs
