@@ -1,16 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,cable.auth.com
-  - DOMAIN-SUFFIX,gravatar.com
-  - DOMAIN,v2rayse.com
   - DOMAIN-KEYWORD,redd
   - DOMAIN-KEYWORD,linkedin
   - DOMAIN-KEYWORD,docker
-  - DOMAIN-SUFFIX,linux.do
-  - DOMAIN-SUFFIX,moomoo.com
-  - DOMAIN-SUFFIX,fofa.info
-  - DOMAIN-SUFFIX,tool.lu
-  - DOMAIN,download.jetbrains.com
-  - DOMAIN,download-cdn.jetbrains.com
-  - DOMAIN,download-cdn.jetbrains.com.cn
-  - DOMAIN,board.zash.run.place
-  - DOMAIN-SUFFIX,metacubex.one
