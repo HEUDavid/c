@@ -1,0 +1,33 @@
+rule-providers:
+  my-proxy:
+    url: https://raw.githubusercontent.com/HEUDavid/c/refs/heads/main/rules/proxy.yaml?
+    type: http
+    interval: 86400
+    format: yaml
+    behavior: classical
+rules:
+  - DOMAIN-SUFFIX,gmail.com,Pin
+  - RULE-SET,my-proxy,Proxy
+  - GEOSITE,category-ai-chat-!cn,Auto!HK
+  - GEOSITE,tiktok,Auto!HK
+  - GEOSITE,github,Proxy
+  - GEOSITE,google,Proxy
+  - GEOSITE,google-cn,Proxy
+  - GEOSITE,youtube,Proxy
+  - GEOSITE,telegram,Proxy
+  - GEOSITE,twitter,Proxy
+  - GEOSITE,netflix,Proxy
+  - GEOSITE,bahamut,Proxy
+  - GEOSITE,ehentai,Proxy
+  - GEOSITE,spotify,Proxy
+  - GEOSITE,pixiv,Proxy
+  - GEOSITE,steam,Proxy
+  - GEOSITE,biliintl,Proxy
+  - GEOSITE,onedrive,Proxy
+  - GEOSITE,gfw,Proxy
+  - GEOSITE,geolocation-!cn,Proxy
+  - GEOIP,google,Proxy
+  - GEOIP,telegram,Proxy
+  - GEOIP,twitter,Proxy
+  - GEOIP,netflix,Proxy
+  - MATCH,DIRECT
