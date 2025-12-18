@@ -2,7 +2,6 @@ payload:
   - DOMAIN-KEYWORD,futu
   - DOMAIN-KEYWORD,eastmoney
   - DOMAIN-KEYWORD,cfmmc
-  - DOMAIN-KEYWORD,oaifree
   # api service
   - DOMAIN-SUFFIX,immersivetranslate.com
   - DOMAIN-SUFFIX,deeplx.org
@@ -13,3 +12,24 @@ payload:
   - DOMAIN-SUFFIX,prod.aws.tidbcloud.com
   - DOMAIN-SUFFIX,e.aivencloud.com
   - DOMAIN-SUFFIX,test-ipv6.com
+  # 腾讯
+  - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
+  - DOMAIN,apd-pcdnwxstat.teg.tencent-cloud.net
+  - DOMAIN,pgdt.gtimg.cn
+  - DOMAIN,wximg.wxs.qq.com
+  - DOMAIN,wxa.wxs.qq.com
+  # 苹果广告
+  - DOMAIN,api-adservices.apple.com
+  - DOMAIN-SUFFIX,iadsdk.apple.com
+  # 王者荣耀
+  - DOMAIN,game.eve.mdt.qq.com
+  - DOMAIN,game.str.mdt.qq.com
+  - DOMAIN,oth.eve.mdt.qq.com
+  - DOMAIN,h.trace.qq.com
+  # 其他
+  - DOMAIN,static.zongheng.com
+  - DOMAIN-SUFFIX,jpush.cn
+  # 抖音
+  - DOMAIN,tnc0-alisc1.zijieapi.com
+  - DOMAIN,tnc0-aliec2.zijieapi.com
+  - DOMAIN,tnc3-alisc1.zijieapi.com
