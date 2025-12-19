@@ -6,12 +6,12 @@ curl -sSL https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/
 "${mihomo}" convert-ruleset domain yaml anti-ad-white.yaml ./mrs/anti-ad-white.mrs
 rm anti-ad-white.yaml
 
-for file in *domain*.yaml; do
+for file in *domain.yaml; do
   name=$(basename "$file" .yaml)
   "${mihomo}" convert-ruleset domain yaml "./$file" "./mrs/${name}.mrs"
 done
 
-for file in *ipcidr*.yaml; do
+for file in *cidr.yaml; do
   name=$(basename "$file" .yaml)
   "${mihomo}" convert-ruleset ipcidr yaml "./$file" "./mrs/${name}.mrs"
 done
