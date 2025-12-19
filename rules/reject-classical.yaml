@@ -1,5 +1,3 @@
 payload:
   - DOMAIN-KEYWORD,reading-video.fqnovelvod.com
   - DOMAIN-KEYWORD,reading.fqnovelpic.com
-  # httpdns
-  - DOMAIN-KEYWORD,dnspod.meituan.httpdns
