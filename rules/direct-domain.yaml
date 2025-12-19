@@ -1,4 +1,7 @@
 payload:
+  # DNS
+  - 'dot.pub'
+  - 'dns.alidns.com'
   # api service
   - '+.immersivetranslate.com
   - '+.deeplx.org'
