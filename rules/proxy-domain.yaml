@@ -1,4 +1,6 @@
 payload:
+  - 'dot.pub'
+  - 'dns.alidns.com'
   - 'cable.auth.com'
   - '+.gravatar.com'
   - '+.v2rayse.com'
