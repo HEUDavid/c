@@ -11,3 +11,7 @@ payload:
   - 'download-cdn.jetbrains.com.cn'
   - 'board.zash.run.place'
   - '+.metacubex.one'
+  # 广告误杀
+  - '*.branch.io'
+  - 'clientservices.googleapis.com'
+  - 'redirect.viglink.com'
