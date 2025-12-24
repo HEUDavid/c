@@ -1,4 +1,9 @@
 payload:
+  # 代理
+  - '+.clusters.zeabur.com'
+  - 'mdavid.zeabur.app'
+  - 'idavid.zeabur.app'
+  - 'tcp.ap-northeast-1.clawcloudrun.com'
   # DNS
   - 'dot.pub'
   - 'dns.alidns.com'
