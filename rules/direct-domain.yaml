@@ -1,5 +1,6 @@
 payload:
-  # 代理
+  # 直连
+  - '+.mdavid.cn'
   - '+.clusters.zeabur.com'
   - 'mdavid.zeabur.app'
   - 'idavid.zeabur.app'
