@@ -1,4 +1,5 @@
 payload:
+  - 'cable.auth.com'
   # 直连
   - '+.mdavid.cn'
   - '+.clusters.zeabur.com'
