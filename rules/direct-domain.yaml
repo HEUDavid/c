@@ -8,6 +8,7 @@ payload:
   - 'tcp.ap-northeast-1.clawcloudrun.com'
   # DNS
   - 'dot.pub'
+  - 'doh.pub'
   - 'dns.alidns.com'
   # api service
   - '+.immersivetranslate.com
