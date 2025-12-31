@@ -1,5 +1,7 @@
 #!/bin/sh
 
+cd ./rules
+
 mihomo="/Applications/Clash Verge.app/Contents/MacOS/verge-mihomo"
 
 curl -sSL https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-for-clash.yaml -o anti-ad-white.yaml
