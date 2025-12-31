@@ -1,4 +1,5 @@
 payload:
+  - 'cable.auth.com'
   - '+.gravatar.com'
   - '+.v2rayse.com'
   - '+.linux.do'
