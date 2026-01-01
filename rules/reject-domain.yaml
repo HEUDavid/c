@@ -23,7 +23,7 @@ payload:
   - '+.bytedance.com  # 其他广告'
   - '+.evtubescms.phncdn.com'
   - '+.deprecated.bitpix.top'
-  # QQ浏览器小说底下广告
+  # QQ 浏览器小说底下广告
   - '+.kde.qq.com'
   - '+.report.nfa.qq.com'
   - '+.sdkapiv2.bizport.cn'

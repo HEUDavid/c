@@ -15,5 +15,3 @@ payload:
   - '*.branch.io'
   - 'clientservices.googleapis.com'
   - 'redirect.viglink.com'
-  # 对地区无要求的 AI
-  - '+.grok.com'

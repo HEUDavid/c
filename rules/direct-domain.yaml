@@ -10,13 +10,14 @@ payload:
   - 'doh.pub'
   - 'dns.alidns.com'
   # api service
-  - '+.immersivetranslate.com
+  - '+.immersivetranslate.com'
+  - '+.immersivetranslate.cn'
   - '+.deeplx.org'
   - '+.deepl.com'
   - '+.cocopilot.org'
   # other
   - '+.prod.aws.tidbcloud.com'
-  - '+.e.aivencloud.com'
+  - '+.e.aivencloud.com't
   - '+.test-ipv6.com'
   # 腾讯
   - 'apd-pcdnwxlogin.teg.tencent-cloud.net'
