@@ -15,3 +15,5 @@ payload:
   - '*.branch.io'
   - 'clientservices.googleapis.com'
   - 'redirect.viglink.com'
+  # 加速下载
+  - 'aliregistry.oss-cn-hangzhou.aliyuncs.com'
