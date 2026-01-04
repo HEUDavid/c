@@ -44,3 +44,4 @@ payload:
   # httpdns
   - 'httpdns.baidubce.com'
   - 'dnspod.meituan.httpdns.qcloud.com'
+  - 'ad.ddxq.mobi'
