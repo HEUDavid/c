@@ -39,5 +39,7 @@ payload:
   - '+.zx-vod-fm.bytegslb.com'
   - '+.mon11-misc-lf.fqnovel.com'
   - '+.ec3-core-lf.ecombdapi.com'
+  - 'www.bytedance.com.queniurc.com'
+  # httpdns
   - 'httpdns.baidubce.com'
   - 'dnspod.meituan.httpdns.qcloud.com'
