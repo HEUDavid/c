@@ -33,6 +33,7 @@ payload:
   - 'ecomuser.snssdk.com'
   - 'is.snssdk.com'
   - 'vas.snssdk.com'
+  - 'vas-lf-x.snssdk.com'
   - 'p9-aio.ecombdimg.com'
   - '+.ndcpp.com'
   - '+.ugsdk.cn'
