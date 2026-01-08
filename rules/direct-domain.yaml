@@ -1,5 +1,4 @@
 payload:
-  # 直连
   - '+.mdavid.cn'
   - '+.clusters.zeabur.com'
   - 'mdavid.zeabur.app'
@@ -17,7 +16,7 @@ payload:
   - '+.cocopilot.org'
   # other
   - '+.prod.aws.tidbcloud.com'
-  - '+.e.aivencloud.com't
+  - '+.e.aivencloud.com'
   - '+.test-ipv6.com'
   # 腾讯
   - 'apd-pcdnwxlogin.teg.tencent-cloud.net'
