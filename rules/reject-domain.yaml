@@ -5,8 +5,8 @@ payload:
   # 番茄小说广告
   - '+.p6-ad-sign.byteimg.com'
   - '+.p9-ad-sign.byteimg.com'
-  - '+.i.snssdk.com'
-  # - '+.dig.bdurl.net'
+  # - '+.i.snssdk.com'
+  - '+.dig.bdurl.net'
   - '+.i-lq.snssdk.com'
   - '+.zijieapi.com'
   - '+.activity-ag.awemeughun.com'
